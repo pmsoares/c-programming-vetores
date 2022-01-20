@@ -19,7 +19,7 @@ float max(float v[], int n) {
 	return maior;
 }
 
-int main() { //programa de teste
+int prog0609() { //programa de teste
 	setlocale(LC_ALL, "Portuguese_Portugal");
 
 	float x[] = { 10.0, 20.0, 15.0, 50.0, 27.0 };

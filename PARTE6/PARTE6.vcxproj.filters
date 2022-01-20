@@ -42,5 +42,8 @@
     <ClCompile Include="prog0609.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="prog0610.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
